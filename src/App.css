@@ -1,0 +1,53 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  top: 0;
+  right: 0;
+  height: 12%;
+  width: 100%;
+  background-color: #FFC8C8;
+}
+
+.postContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100vh;
+}
+
+#postCardOut {
+  width: 25%;
+  color: black;
+}
+
+.postCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 87%;
+  height: 300px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+.postCard:hover {
+  background-color: #FF7D7D;
+  color: white;
+}
+
+#pTitle {
+  font-size: calc(1vw + 1vh);
+}

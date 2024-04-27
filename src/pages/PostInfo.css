@@ -1,0 +1,67 @@
+p {
+    color: grey;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+/* 
+.edit-del-Section {
+    margin-left: 32%;
+} */
+
+.edit-del-Section #img1:hover {
+    background-color: rgba(128, 128, 128, 0.683);
+}
+
+.edit-del-Section #img2:hover {
+    background-color: rgb(255, 123, 123);
+    cursor: pointer;
+}
+
+.like-edit-del-Section {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.likeSection {
+    display: flex;
+    flex-direction: row;
+    margin-left: 2px;
+}
+
+#likeCount {
+    position: relative;
+    margin-left: 10px;
+    bottom: 11px;
+    margin-right: 33vh;
+}
+
+#likeCount2 {
+    position: relative;
+    margin-left: 10px;
+    bottom: 11px;
+    margin-right: 20vh;
+}
+
+button {
+    margin-left: 10px;
+    color: white
+}
+
+.postInfoCont {
+    height: 100vh;
+    width: 100vh;
+}
