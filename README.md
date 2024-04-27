@@ -45,9 +45,9 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-[GIF Url]()
+Uploaded within the CodePath portal. Please let me know if there are any issues! (The file was too large...)
 
-GIF created with Kap and Gyazo 
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
